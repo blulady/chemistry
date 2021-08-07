@@ -1,0 +1,133 @@
+#Al4C3 = dict(formula= 'Al4C3', elements= 'AlC',name= 'aluminum_carbide')
+AlCl3 = dict(formula= 'AlCl3', elements= 'AlCl',name= 'aluminum_chloride',mass= 0)
+Ar2He2Kr2Ne2Xe2Rn2 = dict(formula= 'Ar2He2Kr2Ne2Xe2Rn2', elements=  'ArHeKrNeXeRn', name= 'air',mass= 0)
+BCl3 = dict(formula= 'BCl3', elements= 'BCl',name= 'boron_trichloride',mass= 0)
+CH4 = dict(formula= 'CH4', elements= 'CH', name= 'methane', mass= 0, melting=-182.5, boiling=-161.5)
+C2H6 = dict(formula= 'C2H6', elements= 'CH', name= 'ethane', mass= 0,melting=-183.2, boiling=-88.6)
+C3H8 = dict(formula= 'C3H8', elements= 'CH', name= 'propane', mass= 0,melting=-187.7, boiling=-42.1)
+C4H10 = dict(formula= 'C4H10', elements= 'CH', name= 'butane', mass= 0,melting=-138.3, boiling=-0.5)
+C4H10_M = dict(formula= 'C4H10_M', elements= 'CH', name= '2-methylpropane', mass= 0,melting='', boiling='')
+C5H12 = dict(formula= 'C5H12', elements= 'CH', name= 'pentane', mass= 0,melting=-129.7, boiling=36.1)
+C6H14 = dict(formula= 'C6H14', elements= 'CH', name= 'hexane', mass= 0,melting=-95.3, boiling=68.7)
+C7H16 = dict(formula= 'C7H16', elements= 'CH', name= 'heptane', mass= 0,melting=-90.6, boiling=98.4)
+C8H18 = dict(formula= 'C8H18', elements= 'CH', name= 'octane', mass= 0,melting=-56.8, boiling=125.7)
+C9H20 = dict(formula= 'C9H20', elements= 'CH', name= 'nonane', mass= 0,melting=-53.6, boiling=150.8)
+C10H22 = dict(formula= 'C10H22', elements= 'CH', name= 'decane', mass= 0,melting=-29.7, boiling=174.0)
+C14H30 = dict(formula= 'C14H30', elements= 'CH', name= 'tetradecane', mass= 0,melting=5.9, boiling=253.5)
+C18H38 = dict(formula= 'C18H38', elements= 'CH', name= 'octadecane', mass= 0,melting=28.2, boiling=316.1)
+
+CaH2PO4 = dict(formula= 'Ca(H2PO4)2', elements= 'CaHOP',name= 'calcium_dihydrogen_phosphate', mass= 0)
+CaI = dict(formula= 'CaI', elements= 'CaI',name= 'calcium_iodide', mass= 0)
+CaOH2 = dict(formula= 'Ca(OH)2', elements= 'CaHO', name= 'calcium_hydroxide', mass= 0)
+Ca3P2 = dict(formula= 'Ca3P2', elements= 'CaP', name= 'calcium_phosphide', mass= 0)
+CdS = dict(formula= 'CdS', elements= 'CdS', name= 'cadmium_sulfide', mass= 0)
+CsF = dict(formula= 'CsF', elements= 'CsF', name= 'cesium_fluoride', mass= 0)
+C6H8O7 = dict(formula= 'C6H8O7', elements= 'CHO', name= 'citric_acid', mass= 0)
+CH3CO2H = dict(formula= 'CH3CO2H', elements= 'CHO', name= 'acetic_acid', mass= 0)
+C2H4COH = dict(formula= 'C2H4COH', elements= 'CHO', name= 'acetic_acid', mass= 0)
+CO = dict(formula= 'CO', elements= 'CO', name= 'carbon_monoxide', mass= 0)
+CO2 = dict(formula= 'CO2', elements= 'CO', name= 'carbon_dioxide', mass= 0)
+HBr = dict(formula= 'HBr_aq', elements= 'BrH', name= 'hydrobromic_acid', mass= 0)
+HC2H3O2 = dict(formula= 'HC2H3O2', elements= 'CHO', name= 'acetic_acid', mass= 0)
+HCl = dict(formula= 'HCl', elements= 'ClH', name= 'hydrochloric_acid', mass= 0)
+HClO4 = dict(formula= 'HClO4', elements= 'ClHO', name= 'perchloric_acid', mass= 0)
+HCN = dict(formula= 'HCN', elements= 'CHN', name= 'hydrogen_cyanide', mass= 0)
+H2CO3 = dict(formula= 'H2CO3', elements= 'CHO', name= 'carbonic_acid', mass= 0)
+
+HF = dict(formula= 'HF_aq', elements= 'FH', name= 'hydrofluoric_acid', mass= 0)
+HI = dict(formula= 'HI_aq', elements= 'HI', name= 'hydroiodic_acid', mass= 0)
+HNO2 = dict(formula= 'HNO2', elements= 'HNO', name= 'nitrous_acid', mass= 0)
+HNO3 = dict(formula= 'HNO3', elements= 'HNO', name= 'nitric_acid', mass= 0)
+H3PO4 = dict(formula= 'H3PO4', elements= 'HOS', name= 'phosphoric_acid', mass= 0)
+H2S = dict(formula= 'H2S_aq', elements= 'HS', name= 'hydrosulfuric_acid', mass= 0)
+H2SO3 = dict(formula= 'H2SO3', elements= 'HOS', name= 'sulfurous_acid', mass= 0)
+H2SO4 = dict(formula= 'H2SO4', elements= 'HOS', name= 'sulfuric_acid', mass= 0)
+IF7 = dict(formula= 'IF7', elements= 'FI', name= 'iodine_heptafluoride', mass= 0)
+KBr = dict(formula= 'KBr', elements= 'BrK', name= 'potassium_bromide', mass= 0)
+KOH = dict(formula= 'KOH', elements= 'HKO', name= 'potassium_hydroxide', mass= 0)
+LiCl = dict(formula= 'LiCl', elements= 'ClLi', name= 'lithium_chloride', mass= 0)
+Mg3N2 = dict(formula= 'Mg3N2', elements= 'MgN', name= 'magnesium_nitride', mass= 0)
+NaCl = dict(formula= 'NaCl', elements= 'ClNa', name= 'sodium_chloride', mass= 0, mass= 0)
+NaHCO3 = dict(formula= 'NaHCO33', elements= 'CHNaO)', name= 'bicarbonate_of_soda', mass= 0)
+Na2O = dict(formula= 'Na2O', elements= 'NaO', name= 'sodium_oxide', mass= 0)
+NaOH = dict(formula= 'NaOH', elements= 'HNaO', name= 'sodium_hydroxide', mass= 0)
+NH3 = dict(formula= 'NH3', elements= 'HN', name= 'ammonia', mass= 0)
+N2H4 = dict(formula= 'N2H4', elements= 'HN', name= 'hydrazine', mass= 0)
+NO = dict(formula= 'NO', elements= 'NO', name= 'nitric_oxide', mass= 0)
+NO2 = dict(formula= 'NO2', elements= 'NO', name= 'nitorgen_dioxide', mass= 0)
+N2O4 = dict(formula= 'N2O4', elements= 'NO', name= 'dinitrogen_tetroxide', mass= 0)
+N2O = dict(formula= 'N2O', elements= 'NO', name= 'nitrous_oxide', mass= 0)
+N2O5 = dict(formula= 'N2O5', elements= 'NO', name= 'dinitrogen_pentoxide', mass= 0)
+PF5 = dict(formula= 'PF5', elements= 'FP', name= 'phosphorus_pentafluoride', mass= 0)
+SO2 = dict(formula= 'SO2', elements= 'OS', name= 'sulfur_dioxide', mass= 0)
+SO3 = dict(formula= 'SO3', elements= 'OS', name= 'sulfur_trioxide', mass= 0)
+
+c_db = {}
+c_db['AlC3'] = AlC3
+c_db['Ar2He2Kr2Ne2Xe2Rn2'] = Ar2He2Kr2Ne2Xe2Rn2
+c_db['BCl3'] = BCl3
+c_db['CH4'] = CH4
+c_db['C2H6'] = C2H6
+c_db['C3H8'] = C3H8
+c_db['C4H10'] = C4H10
+c_db['C4H10_M'] = C4H10_M
+c_db['C5H12'] = C5H12
+c_db['C6H14'] = C6H14
+c_db['C7H16'] = C7H16
+c_db['C8H18'] = C8H18
+c_db['C9H20'] = C9H20
+c_db['C10H22'] = C10H22
+c_db['C14H30'] = C14H30
+c_db['C18H38'] = C18H38
+c_db['CaH2PO4'] = CaH2PO4
+c_db['CaI'] = CaI
+c_db['CaOH2'] = CaOH2
+c_db['Ca3P2'] = Ca3P2
+c_db['CdS'] = CdS
+c_db['C6H8O7'] = C6H8O7
+c_db['CH3CO2H'] = CH3CO2H
+c_db['C2H4COH'] = C2H4COH
+c_db['CO'] = CO
+c_db['CO2'] = CO2
+c_db['HBr_g'] = HBr_g
+c_db['HBr_aq'] = HBr_aq
+c_db['HC2H3O2'] = HC2H3O2
+c_db['HCl'] = HCl
+c_db['HCl_g'] = HCl_g
+c_db['HCl_aq'] = HCl_aq
+c_db['HClO4'] = HClO4
+c_db['H2CO3'] = H2CO3
+
+c_db['HF_g'] = HF_g
+c_db['HF_aq'] = HF_aq
+c_db['HI_g'] = HI_g
+c_db['HI_aq'] = HI_aq
+c_db['HNO2'] = HNO2
+c_db['HNO3'] = HNO3
+c_db['H3PO4'] = H3PO4
+c_db['H2S_g'] = H2S_g
+c_db['H2S_aq'] = H2S_aq
+c_db['AlC3'] = AlC3
+c_db['H2SO3'] = H2SO3
+c_db['H2SO4'] = H2SO4
+c_db['IF7'] = IF7
+c_db['KBr'] = KBr
+c_db['KOH'] = KOH
+c_db['LiCl'] = LiCl
+c_db['Mg3N2'] = Mg3N2
+c_db['NaCl'] = NaCl
+c_db['NaHCO3'] = NaHCO3
+c_db['Na2O'] = Na2O
+c_db['NaOH'] = NaOH
+c_db['NH3'] = NH3
+c_db['N2H4'] = N2H4
+c_db['NO'] = NO
+c_db['NO2'] = NO2
+c_db['N2O4'] = N2O4
+c_db['N2O'] = N2O
+c_db['N2O5'] = N2O5
+c_db['PF5'] = PF5
+c_db['SO2'] = SO2
+c_db['SO3'] = SO3
+
+

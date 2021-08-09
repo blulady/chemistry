@@ -30,7 +30,7 @@ from sqlite3 import *
 #from sqlite3 import Error
 import pdb
 from tkinter import messagebox as mb #*  # get standard dialogs
-from MessageBoxes import *
+#from MessageBoxes import *
 from tkinter import messagebox as mb
 from tkinter import font
 #from ElementsDict import *
